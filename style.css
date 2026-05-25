@@ -1,0 +1,39 @@
+@import url("style/header.css");
+body {
+    background-color: rgb(171, 105, 169);
+}
+.container img{
+    max-width:200px;
+    max-height: 100px;
+    width:auto;
+    height: auto;
+}
+
+.h1 {
+    color:rgb(114, 10, 88);
+}
+
+.h2 {
+
+    color:rgb(183, 22, 219);
+    
+}@import url("style/header.css");
+body {
+    background-color: bisque;
+}
+.container img{
+    max-width:200px;
+    max-height: 100px;
+    width:auto;
+    height: auto;
+}
+
+.h1 {
+    color:blue;
+}
+
+.h2 {
+
+    color:brown;
+    
+}
