@@ -11,11 +11,16 @@ body {
     height:40%;
 }
 
-.h1 {
-    color:rgb(114, 10, 88);
+h1 {
+    color:rgb(3, 82, 16);
 }
 
-.h2 {
+h2 {
 
-    color:rgb(183, 22, 219);
+    color:rgb(63, 90, 71);
     
+}
+footer{
+    background-color:#191717;
+    color:antiquewhite;
+}
