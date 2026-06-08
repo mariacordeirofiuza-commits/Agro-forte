@@ -19,13 +19,3 @@ body {
 
     color:rgb(183, 22, 219);
     
-}@import url("style/header.css");
-body {
-    background-color: bisque;
-}
-.container img{
-    max-width:200px;
-    max-height: 100px;
-    width:auto;
-   
-
